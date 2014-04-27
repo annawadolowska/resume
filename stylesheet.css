@@ -1,0 +1,116 @@
+body{
+	background-color: #ffffff;
+	
+
+	margin:auto;
+}
+#header{
+	height:250px;
+	width:100%;
+	background:url(img/bg2.jpg);
+	position: fixed;
+	margin:auto;
+}
+.decor{
+	margin-top: 200px;
+	margin-left:165px; 
+	border-style:none;
+	position:fixed;
+	
+	
+
+}
+#top_box{
+height: 200px;
+width:350px;
+border:1px dotted white;
+position:relative;
+margin:20px;
+left:500px;
+background-color: #9ed500;
+border-radius: 5px;
+}
+
+img{
+border:1px dotted black;
+margin-top: -10px;
+left:1px;
+position:absolute;
+
+}
+.intro{
+	position:absolute;
+	padding-left: 150px;
+	padding-top: :100px;
+}
+
+#content{
+	position: absolute;
+	float:right;
+	padding-left: 100px; 
+	padding-top: 50px;
+}
+
+
+}
+#top_box intro{
+	font-size: 30px;
+	color: #000000;
+	padding-left: 60px;
+}
+
+.name{
+	padding:40px 100px 70px;
+	position:absolute;
+	font-size: 20px;
+}
+
+p:nth-child(3){
+	color: white;
+
+}
+
+
+
+#experience{
+	height:450px;
+	width:400px;
+	border:1px dotted #10c1aa;
+	margin:auto;
+	padding-top: 240px;
+	padding-left: 20px;
+
+
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	color:white;
+}
+h1 ,h2{
+	color:#0b9280;
+}
+.personal p{
+	font-size: 15px;
+}
+#education{
+	height:300px;
+	width:400px;
+	border:1px dotted #10c1aa;
+	margin:auto;
+	padding-left: 20px;
+}
+
+#interests{
+	height:200px;
+	width:400px;
+	border:1px dotted #10c1aa;
+	margin:auto;
+	padding-left: 20px;
+}
+   
+   #footer{
+   	background-color: #9ed500;
+   	height:20px;
+   }
